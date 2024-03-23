@@ -329,8 +329,10 @@ Test accuracy:0.9416000247001648
 As shown above, the loss score for the test dataset is slightly higher than that of the fourth experiment based on TensorflowEfficientUNet Model 
 <a href="https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-GastrointestinalPolyp">TensorflowEfficientUNet-Image-Segmentation-Augmented-GastrointestinalPolyp</a>
 <br>
-<img src="https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-GastrointestinalPolyp/blob/main/projects/TensorflowEfficientUNet/GastrointestinalPolyp/asset/evaluate_console_output_at_epoch_52.png"
- width="720" height="auto"><br>
+<img src=
+"https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-GastrointestinalPolyp/blob/main/projects/TensorflowEfficientUNet/GastrointestinalPolyp/asset/evaluate_console_output_at_epoch_39.png" 
+width="720" height="auto"><br>
+
 <pre>
 Test loss    :0.1439
 Test accuracy:0.9678999781608582
