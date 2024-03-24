@@ -458,26 +458,41 @@ Nikhil Tomar <br>
 https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture
 </pre>
 
+<b>4. Sharp U-Net: Depthwise Convolutional Network for Biomedical Image Segmentation</b><br>
+<pre>
+https://github.com/hasibzunair/sharp-unets/blob/master/demo.ipynb
+</pre>
+<pre>
+@article{zunair2021sharp,
+  title={Sharp U-Net: Depthwise Convolutional Network for Biomedical Image Segmentation},
+  author={Zunair, Hasib and Hamza, A Ben},
+  journal={Computers in Biology and Medicine},
+  pages={104699},
+  year={2021},
+  publisher={Elsevier}
+}
+</pre>
 
-<b>4. TensorflowSwinUNet-Image-Segmentation-Augmented-GastrointestinalPolyp</b><br>
+
+<b>5. TensorflowSwinUNet-Image-Segmentation-Augmented-GastrointestinalPolyp</b><br>
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation-Augmented-GastrointestinalPolyp
 </pre>
 
-<b>5. TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp</b><br>
+<b>6. TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp</b><br>
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/sarah-antillia/TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp
 </pre>
 
-<b>6. TensorflowUNet3Plus-Segmentation-Gastrointestinal-Polyp</b><br>
+<b>7. TensorflowUNet3Plus-Segmentation-Gastrointestinal-Polyp</b><br>
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/sarah-antillia/TensorflowUNet3Plus-Segmentation-Gastrointestinal-Polyp
 </pre>
 
-<b>7. TensorflowEfficientUNet-Segmentation-Gastrointestinal-Polyp</b><br>
+<b>8. TensorflowEfficientUNet-Segmentation-Gastrointestinal-Polyp</b><br>
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-GastrointestinalPolyp
